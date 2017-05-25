@@ -4,3 +4,10 @@
 int main (int argc, char ** argv) {
     printf("Hello, world.\n");
 }
+
+
+int new_func (int c) {
+    return c*c;
+
+}
+
